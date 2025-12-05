@@ -36,3 +36,26 @@ Task-1 focuses only on **static design**, so all content is implemented using:
 
 ## 📁 File Structure
 
+/
+│── index.html # Main webpage (HTML + CSS combined)
+│── README.md # Project documentation
+
+
+No external JavaScript or assets were used for Task-1.
+
+---
+
+## 🔧 How to Run
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/YOUR_USERNAME/REPO_NAME.git
+
+
+Open the folder in VS Code or any editor.
+
+Run the HTML file:
+
+Double-click index.html
+
+OR open via a local server
