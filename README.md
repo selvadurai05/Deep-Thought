@@ -1,20 +1,38 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b4906a54-db4e-4364-9f3b-13146ef5367c" />
 </div>
 
-# Run and deploy your AI Studio app
+# DT Web Development Assignment – Task 1  
+Frontend Webpage (HTML + CSS) Based on Figma Design
 
-This contains everything you need to run your app locally.
+This repository contains my submission for **DeepThought’s Web Development Assignment – Task 1**.  
+The goal of this task was to recreate the given **Figma UI screen** using **only HTML and CSS**, without any JavaScript.
 
-View your app in AI Studio: https://ai.studio/apps/temp/1
+---
 
-## Run Locally
+## 🚀 Project Overview
 
-**Prerequisites:**  Node.js
+The UI is based on the **Expanded Journey Board screen** from the Figma design.  
+The page includes:
 
+- ✔ Top navigation bar  
+- ✔ Main journey board container  
+- ✔ Overview card  
+- ✔ Video placeholder card  
+- ✔ Thread input card  
+- ✔ Structure your pointers card  
+- ✔ 4SA Method card  
+- ✔ Exact color styling inspired from the Figma design  
+- ✔ Responsive simplified layout  
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+Task-1 focuses only on **static design**, so all content is implemented using:
+
+- **HTML5**
+- **CSS3 (no frameworks)**  
+- **Placeholder text** (as required)
+- **Exact color theme** from the Figma screen
+
+---
+
+## 📁 File Structure
+
